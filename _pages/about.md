@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: about me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Computer Vision, Deep Learning, Autonomous Systems <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: assets/img/pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Southwest Jiaotong University</p>
+    <p>Chengdu, China</p>
+    <p>majid@my.swjtu.edu.cn</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -19,16 +19,36 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+## 👋 Hi, I'm **Majid Manzoor**
+I am a Master's student in **Computer Science and Technology** at **School of Computing & Artificial Intelligence**, **Southwest Jiaotong University, Chengdu, China**.  
+My research focuses on **computer vision**, **deep learning**, and **autonomous systems**. I work on building real-time AI systems using modern architectures like Vision Transformers, Mamba models, and YOLO-based detectors.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I enjoy developing practical machine learning models, working on research projects, and deploying end-to-end pipelines for real-world applications, especially in autonomous driving and smart agriculture.
+---
+### 🔍 **Research Interests**
+- Computer Vision  
+- Vision Transformers  
+- Object Detection & Scene Understanding  
+- Autonomous Driving Systems  
+- Deep Learning Optimization
+- 
+---
+### 🛠️ **Technical Skills**
+- **Programming:** Python, C++  
+- **DL Frameworks:** PyTorch, TensorRT, ONNX  
+- **CV Libraries:** OpenCV, PIL, Scikit-image  
+- **Tools:** Docker, Git, CARLA, Hydra  
+- **Research Tools:** Jupyter, LaTeX/Overleaf, Matplotlib  
+
+### 📫 **Contact**
+If you'd like to collaborate or discuss research, feel free to reach out:  
+📧 **majidmanzoor170@gmail.com**
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
