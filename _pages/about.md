@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about me
+title: about
 permalink: /
 subtitle: Computer Vision, Deep Learning, Autonomous Systems <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
