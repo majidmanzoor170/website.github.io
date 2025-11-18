@@ -3,7 +3,7 @@
 I am a Master's student in **Computer Science and Technology** at **Southwest Jiaotong University (SWJTU)** in Chengdu, China.  
 My work focuses on **computer vision**, **deep learning**, and **autonomous systems**, where I develop efficient AI models for real-world applications.
 
-I am passionate about designing lightweight deep learning architectures, improving real-time inference on edge devices, and applying AI to domains such as **autonomous driving**, **UAV-based disaster response**, and **smart agriculture**. My recent work involves Vision Transformers, Mamba-based architectures, and advanced detection/segmentation pipelines.
+I am passionate about designing lightweight deep learning architectures, improving real-time inference on edge devices, and applying AI to domains such as **autonomous driving**, and **smart agriculture**. My recent work involves Vision Transformers, Mamba-based architectures, and advanced detection pipelines.
 
 Over the past few years, I have worked on multiple research and engineering projects, including real-time lane detection, RGBT person detection, hyperspectral image analysis, and end-to-end autonomous vehicle perception systems. I enjoy solving practical problems, optimizing models for deployment, and contributing to high-impact AI applications.
 
